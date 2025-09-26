@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../react_rtr/src/assets/React_Router.png" alt="Cover Image" width="100%" />
+  <img src="./src/assets/React_Router.png" alt="Cover Image" width="100%" />
 </p>
 
 ## Topic
