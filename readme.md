@@ -22,14 +22,18 @@ npm install react-router-dom
 # or
 yarn add react-router-dom
 ```
-## Author
-<b>Emam Saimon</b> <br>
-<u><i>MERN Stack Developer</i></u>
 
----
-
-### Difference in Link & NavLink Tag
+## Difference in Link & NavLink Tag
 
 ```bash
  import { NavLink } from 'react-router-dom';
 ```
+
+## Routing with useNavigate Hook
+ import { NavLink, useNavigate } from 'react-router-dom';
+
+
+## Author
+<b>Emam Saimon</b> <br>
+<u><i>MERN Stack Developer</i></u>
+---
