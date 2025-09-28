@@ -28,9 +28,11 @@ a{
   display: inline-flex;
   padding: 5px 10px;
   margin: 0 10px;
-  color: black;
+  /* color: black; */
 }
-
+a.active{
+  color: blue;
+}
 .navbar button{
   background: black;
   color: white;

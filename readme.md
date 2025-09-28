@@ -27,3 +27,9 @@ yarn add react-router-dom
 <u><i>MERN Stack Developer</i></u>
 
 ---
+
+### Difference in Link & NavLink Tag
+
+```bash
+ import { NavLink } from 'react-router-dom';
+```
